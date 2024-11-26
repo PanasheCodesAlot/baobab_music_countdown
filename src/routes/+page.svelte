@@ -130,7 +130,6 @@
 </script>
 
 <svelte:head>
-    <link rel="stylesheet" href="src/bootstrap.css">
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </svelte:head>
 <div class="container">
@@ -451,7 +450,6 @@
         opacity: 0;
     }
 }
-
 
     input {
         background: none;
