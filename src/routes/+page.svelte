@@ -116,6 +116,11 @@
         audioPlayer.play()
     }
 
+    function houseplays () {
+        page.steps = 1
+        play()
+    }
+
 
 
     let time = {days: 0, hours: 0, minutes: 0, seconds: 0}
@@ -138,10 +143,7 @@
             <p>Give it a try</p>
         </div>
         <div class="col-md-4 d-flex justify-content-center align-items-center">
-            <button class="next-btn" on:click={() => {
-                page.steps = 1
-                play()
-                }}><i class="ph ph-caret-right" style="color: black;"></i></button>
+            <button class="next-btn" on:click={houseplays}><i class="ph ph-caret-right" style="color: black;"></i></button>
         </div>
     </div>
 
