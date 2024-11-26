@@ -364,7 +364,7 @@
                 {:else if registration.state == 2}
                 <div class="text-center gold">Done</div>
             {/if}
-            <div class="text-center mt-4"><button on:click={page.steps = 1} class="btn btn-primary">Bak to countdown</button></div>
+            <div class="text-center mt-4"><button on:click={page.steps = 1} class="btn btn-primary">Back to countdown</button></div>
         </div>
     </div>
     {/if}
