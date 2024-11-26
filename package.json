@@ -16,6 +16,7 @@
 	},
 	"dependencies": {
 		"@supabase/supabase-js": "^2.46.1",
+		"@sveltejs/adapter-node": "^5.2.9",
 		"bootstrap": "^5.3.3",
 		"datejs": "^1.0.0-rc3"
 	}
