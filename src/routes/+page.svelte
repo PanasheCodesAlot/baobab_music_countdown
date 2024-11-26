@@ -356,7 +356,7 @@
                            
                     </select>
                 {/if}
-                <input type="text" name="" id="" class="form-control" bind:value={registration.data} placeholder={(form.send_email)? 'example@email.com' : '(265) 9825995'}>
+                <input type="text" name="" id="" class="form-control" bind:value={registration.data} placeholder={(form.send_email)? 'example@email.com' : '1383291001'}>
                 <button class="btn btn-outline-secondary" type="button" on:click={registration.process.register}>Notify</button>
             </div>
             {#if registration.state == 1}
