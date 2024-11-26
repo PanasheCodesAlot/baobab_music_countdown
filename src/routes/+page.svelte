@@ -141,7 +141,7 @@
         <div class="col-md-8">
             <h1 class="display-1 mt-5"><span class="gold">All ears</span> around the <span class="gold">world</span> will be ready to <span class="gold">listen</span> to the <span class="gold">Music you make</span></h1>
             <p class="lead">Our new website will make it easier for you to distribute your music at international peaks to ensure your audience expands</p>
-            <p class="lead">We'll handle sales, lincesing, and distribution</p>
+            <p class="lead">We'll handle sales, lincensing, and distribution</p>
             <p>Give it a try</p>
         </div>
         <div class="col-md-4 d-flex justify-content-center align-items-center">
