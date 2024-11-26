@@ -110,7 +110,7 @@
 
     function play () {
         const audioPlayer = document.createElement('audio')
-        audioPlayer.src = 'src/Baobab Sound Track_Promo.kachamba hiphop beat.wav'
+        audioPlayer.src = './Baobab Sound Track_Promo.kachamba hiphop beat.wav'
 
         audioPlayer.loop = true
         audioPlayer.play()
